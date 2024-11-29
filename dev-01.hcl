@@ -1,4 +1,1 @@
-coreloggingversion = "1.45.0"
-rulesEditor        =  "12.78.0"
-  
-plato              ="12"
+Y29yZWxvZ2dpbmd2ZXJzaW9uID0gIjEuODcuMCIKcnVsZXNFZGl0b3IgPSAiMS44Ny4wIgpwbGF0byA9ICIxLjg3LjAi

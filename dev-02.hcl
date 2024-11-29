@@ -1,4 +1,1 @@
-coreloggingversion = "1.48.0"
-  
- rulesEditor        = "hn"
-plato              ="11"
+Y29yZWxvZ2dpbmd2ZXJzaW9uID0gIjEuODcuMCIKcnVsZXNFZGl0b3IgPSAiMS44Ny4wIgpwbGF0byA9ICIxLjg3LjAi

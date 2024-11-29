@@ -1,1 +1,3 @@
-Y29yZWxvZ2dpbmd2ZXJzaW9uID0gIjEuODcuMCIKcnVsZXNFZGl0b3IgPSAiMS44Ny4wIgpwbGF0byA9ICIxLjg3LjAi
+coreloggingversion = "1.87.0"
+rulesEditor = "1.87.0"
+plato = "1.87.0"

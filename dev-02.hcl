@@ -1,3 +1,3 @@
-coreloggingversion = "2.0.0"
-rulesEditor = "3.87.0"
-plato = "4.87.0"
+coreloggingversion = "3.0.0"
+rulesEditor = "5.87.0"
+plato = "6.87.0"
